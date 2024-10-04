@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Tertan4ik\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(64,18): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Tertan4ik\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(170,10): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication3.vcxproj -> C:\Users\Tertan4ik\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
